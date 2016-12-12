@@ -40,7 +40,7 @@ Java Developer в EPAM
 
 
 * **Когда**: 19:00, 21 декабря 2016
-* **Где**: [EventSpace](http://eventspace.by)
+* **Где**: [SPACE](http://eventspace.by)
 
 
 Для dev.by/meetup.by
@@ -74,4 +74,4 @@ Java Developer в EPAM
 
 
 * **Когда**: 19:00, 21 декабря 2016
-* **Где**: [EventSpace](http://eventspace.by)
+* **Где**: [SPACE](http://eventspace.by)
