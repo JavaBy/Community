@@ -29,6 +29,12 @@ end = "Europe-Minsk:20161221T210000"
 * _20.00_ – _20.45_: «Fast and Furious: Spring 5», Алексей Жингеровский;
 * _20.45_ – ∞: Общение, кофе, печеньки, афтерпати;
 
+## Место и время
+
+* **Когда**: 19:00, 21 декабря 2016
+* **Где**: [SPACE](http://eventspace.by)
+* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
+
 ## Докладчики
 
 ### Влад Гаевский
@@ -45,11 +51,6 @@ Java Developer в EPAM
 
 "Fast and Furious: Spring 5" – Прошлое, настоящее и будущее enterprise разработки с популярным Spring Framework. Поговорим про текущий и предстоящий революционный релиз Spring 5. А так же погрузимся в реактивность Spring на примерах и live-coding
 
-
-* **Когда**: 19:00, 21 декабря 2016
-* **Где**: [SPACE](http://eventspace.by)
-* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
-
 Для dev.by/meetup.by
 =====================================================================================
 
@@ -61,6 +62,13 @@ Java Developer в EPAM
 * _19.45_ – _20.00_: Кофе-пауза;
 * _20.00_ – _20.45_: «Fast and Furious: Spring 5», Алексей Жингеровский;
 * _20.45_ – ∞: Общение, кофе, печеньки, афтерпати;
+
+
+## Место и время
+
+* **Когда**: 19:00, 21 декабря 2016
+* **Где**: [SPACE](http://eventspace.by)
+* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
 
 ## Докладчики
 
@@ -77,8 +85,3 @@ Java Developer в EPAM
 Принимает активное участие в развитии локального сообщества Java программистов (http://jprof.by). Вдохновлён Kotlin и тайским боксом.
 
 "Fast and Furious: Spring 5" – Прошлое, настоящее и будущее enterprise разработки с популярным Spring Framework. Поговорим про текущий и предстоящий революционный релиз Spring 5. А так же погрузимся в реактивность Spring на примерах и live-coding.
-
-
-* **Когда**: 19:00, 21 декабря 2016
-* **Где**: [SPACE](http://eventspace.by)
-* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
