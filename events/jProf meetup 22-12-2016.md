@@ -10,7 +10,7 @@ tags = [
 ]
 
 [event]
-subject = "Java Professionals Meetup #2"
+subject = "Java Professionals Meetup #12"
 description = "Тема: JUnit 5, Spring 5"
 location = "SPACE"
 begin = "Europe-Minsk:20161221T190000"
