@@ -4,9 +4,9 @@
 +++
 date = "2016-12-12T12:00:00+03:00"
 draft = false
-title = "Встречаемся 21 декабря, 19:00. SPACE (ул. Октябрьская 16А)"
+title = "Java Professionals Meetup #12 ∆ 21/12/2016 19:00@SPACE"
 tags = [
-    "Анонсы"
+    "Анонсы", "meetup"
 ]
 
 [event]
@@ -17,7 +17,8 @@ begin = "Europe-Minsk:20161221T190000"
 end = "Europe-Minsk:20161221T210000"
 +++
 
-Приглашаем на последний митап уходящего года. Как всегда вас ждет общение на тему Java разработки и интересные доклады. Подробности под катом.
+Приглашаем на последний Java Professionals Meetup уходящего года. Как всегда вас ждет общение на тему Java разработки и интересные доклады про JUnit 5 и Spring 5. Встречаемся 21 декабря, 19:00 в [SPACE](http://eventspace.by) (ул. Октябрьская 16А).
+Подробности ниже.
 
 <!--more-->
 
@@ -27,6 +28,12 @@ end = "Europe-Minsk:20161221T210000"
 * _19.45_ – _20.00_: Кофе-пауза;
 * _20.00_ – _20.45_: «Fast and Furious: Spring 5», Алексей Жингеровский;
 * _20.45_ – ∞: Общение, кофе, печеньки, афтерпати;
+
+## Место и время
+
+* **Когда**: 19:00, 21 декабря 2016
+* **Где**: [SPACE](http://eventspace.by)
+* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
 
 ## Докладчики
 
@@ -44,15 +51,10 @@ Java Developer в EPAM
 
 "Fast and Furious: Spring 5" – Прошлое, настоящее и будущее enterprise разработки с популярным Spring Framework. Поговорим про текущий и предстоящий революционный релиз Spring 5. А так же погрузимся в реактивность Spring на примерах и live-coding
 
-
-* **Когда**: 19:00, 21 декабря 2016
-* **Где**: [SPACE](http://eventspace.by)
-* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
-
 Для dev.by/meetup.by
 =====================================================================================
 
-Приглашаем на последний митап уходящего года. Как всегда вас ждет общение на тему Java разработки и интересные доклады.
+Приглашаем на последний Java Professionals Meetup уходящего года. Как всегда вас ждет общение на тему Java разработки и интересные доклады про JUnit 5 и Spring 5.
 
 ## Итак, что у нас в программе?
 
@@ -60,6 +62,13 @@ Java Developer в EPAM
 * _19.45_ – _20.00_: Кофе-пауза;
 * _20.00_ – _20.45_: «Fast and Furious: Spring 5», Алексей Жингеровский;
 * _20.45_ – ∞: Общение, кофе, печеньки, афтерпати;
+
+
+## Место и время
+
+* **Когда**: 19:00, 21 декабря 2016
+* **Где**: [SPACE](http://eventspace.by)
+* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
 
 ## Докладчики
 
@@ -76,8 +85,3 @@ Java Developer в EPAM
 Принимает активное участие в развитии локального сообщества Java программистов (http://jprof.by). Вдохновлён Kotlin и тайским боксом.
 
 "Fast and Furious: Spring 5" – Прошлое, настоящее и будущее enterprise разработки с популярным Spring Framework. Поговорим про текущий и предстоящий революционный релиз Spring 5. А так же погрузимся в реактивность Spring на примерах и live-coding.
-
-
-* **Когда**: 19:00, 21 декабря 2016
-* **Где**: [SPACE](http://eventspace.by)
-* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
