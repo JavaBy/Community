@@ -8,6 +8,7 @@ title = "Встречаемся 21 декабря, 19:00. SPACE (ул. Октя�
 tags = [
     "Анонсы"
 ]
+
 [event]
 subject = "Java Professionals Meetup #2"
 description = "Тема: JUnit 5, Spring 5"
@@ -47,7 +48,7 @@ Java Developer в EPAM
 
 * **Когда**: 19:00, 21 декабря 2016
 * **Где**: [SPACE](http://eventspace.by)
-
+* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
 
 Для dev.by/meetup.by
 =====================================================================================
@@ -81,3 +82,4 @@ Java Developer в EPAM
 
 * **Когда**: 19:00, 21 декабря 2016
 * **Где**: [SPACE](http://eventspace.by)
+* **[Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSduUYAsH67snDgznTxGxFxAYYEaQUwclWcD4NwOhBPvEBfaBw/viewform)**
