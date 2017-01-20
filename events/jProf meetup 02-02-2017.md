@@ -2,7 +2,7 @@
 =====================================================================================
 
 +++
-date = "2017-02-02T19:00:00+03:00"
+date = "2017-01-20T12:00:00+03:00"
 draft = false
 title = "Java Professionals Meetup #13 ∆ 02/02/2017 19:00@SPACE"
 tags = [
@@ -17,7 +17,7 @@ begin = "Europe-Minsk:20170202T190000"
 end = "Europe-Minsk:20170202T210000"
 +++
 
-Приглашаем на Java Professionals BY Meetup. Вас ждёт общение на тему Java разработки, увлекательная история про миграцию миллионов активных пользователей с MySQL на Cassandra. А ещё “Enterprise” Java Puzzlers от Java Rock Stars. Встречаемся 2 февраля, 19:00 в [SPACE](http://eventspace.by) (ул. Октябрьская 16А).
+Приглашаем на первый в 2017 году Java Professionals BY Meetup. Вас ждёт общение на тему Java разработки, увлекательная история про миграцию миллионов активных пользователей с MySQL на Cassandra. А ещё “Enterprise” Java Puzzlers от Java Rock Stars. Встречаемся 2 февраля, 19:00 в [SPACE](http://eventspace.by) (ул. Октябрьская 16А).
 Подробности ниже.
 
 <!--more-->
@@ -52,7 +52,7 @@ Senior Software Engineer, Fitbit
 Для dev.by/meetup.by
 =====================================================================================
 
-Приглашаем на Java Professionals BY Meetup. Вас ждёт общение на тему Java разработки, увлекательная история про миграцию миллионов активных пользователей с MySQL на Cassandra. А ещё “Enterprise” Java Puzzlers от Java Rock Stars.
+Приглашаем на первый в 2017 году Java Professionals BY Meetup. Вас ждёт общение на тему Java разработки, увлекательная история про миграцию миллионов активных пользователей с MySQL на Cassandra. А ещё “Enterprise” Java Puzzlers от Java Rock Stars.
 
 ## Итак, что у нас в программе?
 
