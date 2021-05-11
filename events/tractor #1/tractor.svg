@@ -30,7 +30,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -340,14 +340,6 @@
      inkscape:label="border"
      style="display:inline"
      transform="translate(-2113.3372,257.82224)">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2585"
-       width="1702.7133"
-       height="1702.7133"
-       x="2113.3372"
-       y="-257.82224"
-       rx="0" />
     <g
        id="g2836">
       <g
